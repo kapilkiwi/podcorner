@@ -1,0 +1,16 @@
+PODS:
+  - podcorner (0.1.0)
+
+DEPENDENCIES:
+  - podcorner (from `../`)
+
+EXTERNAL SOURCES:
+  podcorner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podcorner: ec11ace4d0b452b4c37aaea83e08284c15b32a09
+
+PODFILE CHECKSUM: 36d90466e3de0afb941736b41e7e4f58e4f75190
+
+COCOAPODS: 1.11.3
